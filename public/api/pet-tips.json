@@ -1,0 +1,39 @@
+{
+    "tips": [
+        {
+            "id": 1,
+            "tip": "Regular excersise is important for your pet's health. Take them for walks or jogs to keep them fit and happy.",
+            "category": "exercise"
+        },
+        {
+            "id": 2,
+            "tip": "Keep your pet's water bowl clean and filled with fresh water to prevent illness and keep themhydrated.",
+            "category": "health"
+        },
+        {
+            "id": 3,
+            "tip": "Create a consistent feeding schedule to help your pet maintain it's digestive health.",
+            "category": "nutrition"
+        },
+        {
+            "id": 4,
+            "tip": "Regular vet checkups are essential to catch and treat health issues early.",
+            "category": "health"
+        },
+        {
+            "id": 5,
+            "tip": "Socialize your pet to people and other animals to prevent anxiety and aggression.",
+            "category": "socialization"
+        },
+        {
+            "id": 6,
+            "tip": "If possible, take pets outside for walks or playtime to help them burn off energy.",
+            "category": "exercise"
+        },
+        {
+            "id": 7,
+            "tip": "Don't show aggression to your pet. Instead, use positive reinforcement training to teach them good behavior.",
+            "category": "training"
+        }
+    ]
+}
